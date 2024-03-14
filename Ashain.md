@@ -18,5 +18,9 @@ simple database schema through a user interface (UI).
   - Update existing records in the database.
   - Delete records from the database.
 
+### Function I worked on: 
+- I worked on the Read/View function in this project.
+
+
 ##### [Ashain Silva]
 ##### [KEG/IT/2021/F/0115]
